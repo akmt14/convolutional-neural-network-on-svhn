@@ -85,7 +85,7 @@ python-systemd==231
 pytorchviz==0.0.1
 pytz==2014.10
 pyxdg==0.25
-PyYAML==3.11
+PyYAML==5.4
 pyzmq==17.1.2
 requests==2.9.1
 scikit-image==0.10.1
