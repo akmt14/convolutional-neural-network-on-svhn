@@ -17,7 +17,7 @@ graphviz==0.10.1
 grpcio==1.14.1
 h5py==2.6.0
 hibagent==1.0.1
-html5lib==0.999
+html5lib==0.99999999
 idna==2.0
 ipython==6.5.0
 ipython-genutils==0.2.0
